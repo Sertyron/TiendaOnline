@@ -1,0 +1,27 @@
+.barraDeInicio{
+    display: flex;
+    justify-content: flex-end;    
+    position: fixed;
+    width: 100%;
+    height: 60px;
+    background: antiquewhite;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+    background: blue;
+    margin-right: 65%;
+}
+
+.marcoDeBarra{
+    display: flex;
+    justify-content: flex-end;
+    flex-grow: 4;
+}
+
+.listaDeBarra{
+    margin: 0em 2em;
+    
+
+}
